@@ -1,0 +1,13 @@
+.nav {
+  width: 23vw;
+  /* height: 10vh; */
+  margin: auto;
+  background-color:#5b5b5b;
+  /* box-shadow: 0 0 2px 3px #878787  ; */
+  border-radius: 6px;
+}
+.nav h1 {
+  /* text-shadow: 1px 1px #DADADA ; */
+  color:rgb(255, 238, 238);
+  text-align: center;
+}
